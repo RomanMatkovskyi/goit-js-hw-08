@@ -11,6 +11,6 @@ player.on(
   }, 1000)
 );
 
-if (localStorage.getItem(videoplayer - current - time)) {
+if (localStorage.getItem('videoplayer-current-time')) {
   player.setCurrentTime(localStorage.getItem('videoplayer-current-time'));
 }
